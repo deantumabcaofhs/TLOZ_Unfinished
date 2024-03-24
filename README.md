@@ -7,6 +7,11 @@ By Dean Tumabcao & Alan for a high school final project. A FINAL. Coded with Jav
 ## About
 A 2D top-down adventure video game where you can swing a sword and walk around.
 ### 🎞️ Trailer
+
+
+https://github.com/dtumabcaofhs/TLOZ_Unfinished/assets/143454140/815b1504-10f1-46df-b9c7-d9de55bdaf54
+
+
 ### 📷 Screenshots
 ![](assets/Screenshot.png)
 ### 📖 The Legend Of Zelda Guide
